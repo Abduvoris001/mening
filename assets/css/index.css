@@ -1,0 +1,30 @@
+body{
+	margin: 30px;
+	background-color: black;
+}
+.f{
+	border: 1px solid black;
+	max-width: 400px;
+	margin: auto;
+	border-radius: 10px;
+	height: 717	px;
+	background-color: white;
+}
+.f1{
+	max-width: 400px;
+	margin: auto;
+	color: #808080;
+	margin-bottom: 30px;
+	padding: 20px;
+}
+.f2{
+	border-radius: 10px;
+}
+.f5{
+	border: 1px solid black;
+	max-width: 500px;
+	margin: auto;
+	border-radius: 10px;
+	height: 800px;
+	background-color: white;
+}

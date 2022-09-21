@@ -1,0 +1,18 @@
+.f{
+	border: 1px solid black;
+	padding: 20px;
+}
+.f1{
+	border-bottom: 1px solid #f06656;
+	padding: 20px;
+}
+.f2{
+	border: 1px solid #d1cbcb;
+	padding: 20px;
+	border-radius: 10px;
+}
+.f3{
+	border-left: 5px solid #07aef0;
+	padding: 20px;
+	background-color: #acd7e8;
+}
